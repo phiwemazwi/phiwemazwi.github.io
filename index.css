@@ -84,7 +84,7 @@ section{
     display: grid;
     align-items: center;
     grid-template-columns: repeat(1, 1fr);
-    background: url(/assets/lodge-bg.jpg);
+    background: url(lodge-bg.jpg);
     background-size: cover;
     background-position: center;
     
@@ -748,42 +748,42 @@ video{
     background: linear-gradient(45deg,
     rgb(211, 182, 133) -100%,
     rgba(243, 218, 163, 0.7) 100%),
-                             url(/assets/service-1.jpg);
+                             url(service-1.jpg);
     background-size: cover;
 }
 .card:nth-child(2):hover{
     background: linear-gradient(45deg,
     rgb(211, 182, 133) 0%,
     rgba(243, 218, 163, 0.7) 100%),
-                             url(/assets/service-2.jpg);
+                             url(service-2.jpg);
     background-size: cover;
 }
 .card:nth-child(3):hover{
     background: linear-gradient(45deg,
     rgb(211, 182, 133) 0%,
     rgba(243, 218, 163, 0.7) 100%),
-                             url(/assets/service-3.jpg);
+                             url(service-3.jpg);
     background-size: cover;
 }
 .card:nth-child(4):hover{
     background: linear-gradient(45deg,
     rgb(211, 182, 133) 0%,
     rgba(243, 218, 163, 0.7) 100%),
-                             url(/assets/service-4.jpg);
+                             url(service-4.jpg);
     background-size: cover;
 }
 .card:nth-child(5):hover{
     background: linear-gradient(45deg,
     rgb(211, 182, 133) 0%,
     rgba(243, 218, 163, 0.7) 100%),
-                             url(/assets/service-5.jpg);
+                             url(service-5.jpg);
     background-size: cover;
 }
 .card:nth-child(6):hover{
     background: linear-gradient(45deg,
     rgb(211, 182, 133) 0%,
     rgba(243, 218, 163, 0.7) 100%),
-                             url(/assets/service-6.jpg);
+                             url(service-6.jpg);
     background-size: cover;
 }
 
